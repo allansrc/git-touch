@@ -2,6 +2,7 @@
 
 Open source GitHub client built with Flutter
 
+
 <p>
   <a href="https://itunes.apple.com/us/app/gittouch/id1452042346">
     <img alt="Download on the App Store" title="App Store" src="https://raw.githubusercontent.com/pd4d10/git-touch/master/assets/app-store-badge.png" height="60" />
@@ -10,6 +11,7 @@ Open source GitHub client built with Flutter
     <img alt="Get it on Google Play" title="Google Play" src="https://raw.githubusercontent.com/pd4d10/git-touch/master/assets/google-play-badge.png" height="60" />
   </a>
 </p>
+
 
 ## Installation
 
